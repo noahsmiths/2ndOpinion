@@ -1,0 +1,6 @@
+[submodule "frontend/secondopinion"]
+	path = frontend/secondopinion
+	url = https://github.com/bwgoulet/secondopinion
+[submodule "backend/second-opinion-backend"]
+	path = backend/second-opinion-backend
+	url = https://github.com/noahsmiths/second-opinion-backend
